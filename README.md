@@ -25,7 +25,7 @@ This is an unofficial, community-maintained fork of [Wiggle 2](https://github.co
 
 ## Installation
 
-1. Download the latest zip from [Releases](../../releases)
+1. Download the latest zip from main.
 2. In Blender: **Edit → Preferences → Add-ons → Install from Disk**
 3. Select the zip file and enable the addon
 
